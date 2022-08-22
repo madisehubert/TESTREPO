@@ -487,3 +487,5 @@ View(testdatacomp)
 
 #Save result to csv
 write.csv(testdatacomp,"C:\\Users\\H  U  B  E  R  T\\Documents\\Hubert_Oive_Madise_PwC_Bootcamp_Project_1\\testdatacomp.csv", row.names = FALSE)
+
+#testing 1 2
